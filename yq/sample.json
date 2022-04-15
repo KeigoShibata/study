@@ -1,0 +1,16 @@
+{
+    "Samples" : [
+      {
+        "name" : "keigo",
+        "topics" : "Learning infrastructure"
+      },
+      {
+        "name" : "taro",
+        "nickname" : "momo"
+      },
+      {
+        "name" : "eri",
+        "hobbies" : "reading book"
+      }
+    ]
+  }
